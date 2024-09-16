@@ -7,7 +7,6 @@ import lombok.Setter;
 
 @Getter
 @NoArgsConstructor
-@AllArgsConstructor
 public class BoardRequest {
     private String title;
     private String content;
