@@ -1,6 +1,6 @@
-package org.example.springbatch.batch.repository;
+package org.example.springbatch.repository;
 
-import org.example.springbatch.batch.entity.BeforeEntity;
+import org.example.springbatch.entity.BeforeEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

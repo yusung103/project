@@ -1,4 +1,4 @@
-package org.example.springbatch.batch.entity;
+package org.example.springbatch.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
